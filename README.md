@@ -1,2 +1,0 @@
-# Electric-Vehicle-Battery-Performance-and-Range-Prediction
-Machine learning project for analyzing Electric Vehicle battery performance and predicting driving range using regression techniques. The project explores battery and vehicle parameters, performs EDA and visualization, and compares regression models using MAE, RMSE, MSE, and R² metrics to identify factors affecting EV range and efficiency.
