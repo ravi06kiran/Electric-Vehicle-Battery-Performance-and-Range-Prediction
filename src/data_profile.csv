@@ -1,0 +1,17 @@
+,dtype,missing_count,missing_percent,unique_count
+battery_soc,float64,0,0.0,1807
+voltage,float64,0,0.0,1846
+current,float64,0,0.0,1916
+power_consumption,float64,0,0.0,1365
+speed,float64,0,0.0,1832
+distance_traveled,float64,0,0.0,487
+road_gradient,float64,0,0.0,1041
+temperature,float64,0,0.0,1456
+humidity,float64,0,0.0,1711
+wind_speed,float64,0,0.0,1273
+vehicle_load,float64,0,0.0,1944
+battery_health,float64,0,0.0,1439
+regen_braking,float64,0,0.0,1665
+traffic_density,str,0,0.0,3
+driving_style,str,0,0.0,3
+remaining_range,float64,0,0.0,1633

@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit secrets and logs
+.streamlit/secrets.toml
+.streamlit/logs/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+

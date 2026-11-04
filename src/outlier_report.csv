@@ -1,0 +1,15 @@
+feature,lower_fence,upper_fence,flagged_count,flagged_percent,action
+battery_soc,-37.778749999999995,146.77125,0,0.0,flagged for review; retained
+voltage,240.4762500000001,479.4662499999999,0,0.0,flagged for review; retained
+current,-83.57124999999999,291.05875,0,0.0,flagged for review; retained
+power_consumption,-9.667499999999997,36.13249999999999,0,0.0,flagged for review; retained
+speed,-40.756250000000016,168.87375000000003,0,0.0,flagged for review; retained
+distance_traveled,-2.41,7.59,0,0.0,flagged for review; retained
+road_gradient,-11.96,14.84,0,0.0,flagged for review; retained
+temperature,1.067499999999999,58.1475,0,0.0,flagged for review; retained
+humidity,-0.6637500000000003,120.02625,0,0.0,flagged for review; retained
+wind_speed,-10.439999999999998,30.36,0,0.0,flagged for review; retained
+vehicle_load,-131.68750000000006,584.1925000000001,0,0.0,flagged for review; retained
+battery_health,55.452500000000036,114.71249999999998,0,0.0,flagged for review; retained
+regen_braking,-24.137499999999996,75.54249999999999,0,0.0,flagged for review; retained
+remaining_range,-176.10375,378.70624999999995,0,0.0,flagged for review; retained

@@ -1,0 +1,19 @@
+{
+  "source": "data\\EV_Range_Prediction_Dataset_2000.csv",
+  "rows_loaded": 2000,
+  "rows_used": 2000,
+  "target_missing_rows_dropped": 0,
+  "predictor_missing_cells": 0,
+  "split": "chronological 80/20",
+  "best_by_test_RMSE": "Random forest",
+  "full_project_dataset_confirmed": true,
+  "domain_range_checks": {
+    "battery_soc_outside_0_100": 0,
+    "battery_health_outside_0_100": 0,
+    "humidity_outside_0_100": 0,
+    "negative_target": 0,
+    "negative_distance_traveled": 0,
+    "negative_speed": 0
+  },
+  "note": "Treat scores as final only if source is the full project CSV."
+}

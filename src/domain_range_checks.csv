@@ -1,0 +1,7 @@
+check,count,action
+battery_soc_outside_0_100,0,review against source/domain; do not auto-remove
+battery_health_outside_0_100,0,review against source/domain; do not auto-remove
+humidity_outside_0_100,0,review against source/domain; do not auto-remove
+negative_target,0,review against source/domain; do not auto-remove
+negative_distance_traveled,0,review against source/domain; do not auto-remove
+negative_speed,0,review against source/domain; do not auto-remove
